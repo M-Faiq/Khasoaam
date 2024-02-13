@@ -1,0 +1,82 @@
+@import url('style5.css');
+
+.menu-tan{
+  width: 633px;
+  height: 1800px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 4%;
+}
+
+.menu-list{
+ border-radius: 15px;
+ width: 310px;
+ height: 100px;
+ background: #fff;
+ margin-top: 15px ;
+
+}
+.menu-list-three{
+  border-radius: 15px;
+  width: 310px;
+  height: 100px;
+  background: #fff;
+  margin-left: 10px;
+  margin-top: 15px ;
+}
+.menu-image{
+  margin: 5px;
+  width: 120px;
+  height: 80px;
+}
+.menu-image img{
+  border-radius: 15px;
+  width: 100%;
+}
+ .menu-info{
+  position: relative;
+  left: 42%;
+  bottom: 77%;
+} 
+.menu-info h2{
+font-size: 12px;
+margin: 0;
+font-weight: 700;
+}
+.menu-info p{
+  margin: 0;
+  font-size: 9px;
+}
+
+.menu-button{
+  padding-top:4px ;
+  padding-bottom:4px ;
+  background: #d39e00;
+  display:flex;
+  border: none;
+  color: #fff;
+  font-size: 5px;
+  border-radius: 2px;
+}
+
+
+
+.menu-discount{
+  padding: 0px 3px 5px 0px;
+  font-size: 10px;
+  font-weight: 700;
+}
+.menu-full-price{
+  font-weight: 700;
+  padding: 0px 3px 3px 0px;
+  font-size: 10px;
+}
+.counter-price{
+font-size: 12px;
+font-weight: 700;
+}
+
+
+
+
+

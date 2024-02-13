@@ -1,0 +1,60 @@
+@import url('style4.css');
+
+
+.icons-menu{
+  margin-top: 20px;
+  width: 700px;
+  height: 450px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.banner-item{
+  padding-left: 20px;
+}
+
+.banner-image{
+  margin-top: 20px;
+  width: 160px;
+  height: 270px;
+  background: #fff;
+  border-radius: 9px; 
+}
+.banner-item img{
+  border-radius: 15px;
+}
+.wrap-info{
+  position: relative;
+  bottom: 27%;
+}
+.wrap-info h2{
+  margin: 0;
+  padding: 15px 0 3px 10px;
+  font-size: 10px;
+  font-weight: 700;
+}
+.wrap-info p{
+  margin: 0;
+  padding: 0  10px;
+  font-size: 5px;
+  word-wrap: break-word;
+}
+
+.wrap-info span{
+  margin-left: 10px;
+  font-size: 7px;
+  font-weight: 700;
+}
+
+.wrap-button{
+  background: #d39e00;
+  display:flex;
+  margin-left: 8px;
+  border: none;
+  font-size: 10px;
+  color: #fff;
+  border-radius: 3px;
+  padding: 4px 40px 4px 40px;
+}
+.banner-wrapper img{
+ border-radius: 4px;
+}

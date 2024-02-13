@@ -1,0 +1,60 @@
+@import url('style2.css');
+
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.headingOne{
+  background: #d39e00;
+  font-size: 10px;
+  padding: 6px 0px;
+  text-align: center;
+  color: #fff;
+  font-weight: bold;
+}
+
+.container{
+  /* background: tan; */
+  max-width: 900px;
+  height: 40px;
+  display: flex;
+}
+.contact{
+  width: 150px;
+  padding: 7px;
+  
+}
+.contact a{
+  background: #d39e00;
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 10px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.logo{
+  width: 70px;
+  margin: auto;
+}
+
+.logo img{
+  width: 70%;
+}
+
+.menu-icon{
+  background: #d39e00;
+  margin: 7px;
+  color: #fff;
+  border: #d39e00;
+  border-radius: 5px;
+}
+
+
+
+
+ 
+
+ 
